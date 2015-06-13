@@ -1,4 +1,5 @@
 # ProyectoSistemaElectoral
 
-Yenifer Marisol Campos Yanes
+Yenifer Marisol Campos Yanes,
+
 Katerin Alejandra Hernández Campos
