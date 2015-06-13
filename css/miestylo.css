@@ -1,0 +1,184 @@
+/**estilo formulario de inicio del tribunal**/
+
+*{
+	font-size: 14px;
+}
+form.login {
+    background: none repeat scroll 0 0 #F1F1F1;
+    border: 1px solid #DDDDDD;
+    font-family: sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    width: 278px;
+}
+form.login div {
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+form.login div label {
+    display: block;
+    float: left;
+    line-height: 25px;
+}
+form.login div input[type="text"], form.login div input[type="password"] {
+    border: 1px solid #DCDCDC;
+    float: right;
+    padding: 4px;
+}
+form.login div input[type="submit"] {
+    background: none repeat scroll 0 0 #DEDEDE;
+    border: 1px solid #C6C6C6;
+    float: right;
+    font-weight: bold;
+    padding: 4px 20px;
+}
+.error{
+    color: red;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+}
+
+p {
+color: black;
+font: bold 30px gabriola, sans-serif;
+} 
+
+h1 {
+color: black;
+font: bold 30px gabriola, sans-serif;
+} 
+
+h2 {
+color:black;
+font: bold 20px gabriola, sans-serif;
+}
+
+h4 {
+color: black;
+font:bold 20px italic;
+}
+
+body { 
+background-color:#;
+text-align: center;
+}
+
+#agrupar {
+color:#000000;
+width: 500px;
+margin: 10px auto;
+text-align: left;
+}
+
+
+#cabeceras {
+text-align: center;
+color:#FFFFFF;
+background: #114455;
+border: 2px solid #114455;
+border-radius:10px;
+padding: 30px 30px;
+margin-bottom:30px;
+}
+
+#cabecer {
+text-align:left;
+color:#FFFFFF;
+background: #1399DF;
+border: 0px solid #FFFFFF;
+border-radius:10px;
+padding: 30px 30px;
+margin-bottom:30px;
+}
+/*#menu {
+font-size:300%;
+color:#FFFFF;
+background: #C0C0C0;
+padding: 5px 5px;
+margin-bottom:20px;
+} #
+menu li {
+display: inline-block;
+list-style: none;
+padding: 5px;
+font: bold 25px verdana, sans-serif;
+}*/
+
+#seccion {
+float: left;
+width: 500px;
+margin: 15px;
+border-radius:10px;
+text-align:left;
+}
+
+#columna {
+color:#FFFFFF;
+float: left;
+width: 700px;
+margin: 20px 0px;
+padding: 20px;
+background: #0066FF;
+}
+
+#footer {
+color:black;
+clear: both;
+text-align: center;
+padding: 12px;
+border-top: 4px solid #999999;
+}
+
+article {
+background: #000000;
+border: 1px solid #999999;
+padding: 10px;
+margin-bottom: 15px;
+border-radius:20px;
+} article footer {
+text-align:right;
+} time {
+color: #999999;
+} figcaption {
+font: italic 14px verdana, sans-serif;
+
+
+
+div {
+width: 800px;
+margin: 20px;
+padding: 10px;
+border: 1px solid #000000;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+/*#boton ul{
+list-style-type: none;
+text-align: center;
+}
+
+#boton li{
+display: inline;
+text-align: center;
+font: bold 20px verdana, sans-serif;
+margin: 0 10px 0 0;
+}
+
+#boton li a {
+padding: 2px 5px 2px 5px;
+color: #666;
+background-color: #eeeeee;
+border: 1px solid #ccc;
+text-decoration: none;
+border-radius:5px;
+}*/
+
+#boton li a:hover{
+background-color: #333333;
+color: #ffffff;
+}
+
+
